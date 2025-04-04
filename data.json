@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "name": "Produit 1",
+            "price": 100,
+            "stock": 50,
+            "categorie": "pc"
+          },
+          {
+            "name": "Produit 1",
+            "price": 100,
+            "stock": 20,
+            "categorie": "clavier"
+          }
+    ],
+    "orders": [
+        {
+            "product": "Produit 1",
+            "quantity": 10
+          }
+    ]
+  }
